@@ -3,4 +3,4 @@ La Traduction Française de Dragon Quest X Offline avance petit à petit, le jeu
 
 Pour savoir comment jouer au jeu c'est ici : https://keraloon.github.io/DragonQuest10FR/
 
-Pour télécharger les fichiers PAKs, c'est ici : https://github.com/Keraloon/DragonQuestXOfflineFR/releases/tag/Patch
+Pour télécharger les fichiers PAKs, c'est ici : [https://github.com/Keraloon/DragonQuestXOfflineFR/releases/tag/Patch](https://www.nexusmods.com/dragonquestxoffline/mods/10)
