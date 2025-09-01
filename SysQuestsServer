@@ -1,0 +1,82 @@
+{
+  "26167": {
+    "<pc> recoit <%dEV_FEE_GOLD>\nG<se_nots System 7><bw_break>": ""
+  },
+  "26180": {
+    "<pc> recoit des Points de Notoriete de\n<%dEV_FEE_FAME>!<se_nots System 7><bw_break>": ""
+  },
+  "26181": {
+    "Quete \"<%sev_quest_name>\" recu.<update_quedate><me 74>": ""
+  },
+  "26182": {
+    "Une quete vous est proposee.\nL'accepter?\n<select>\nAccepter\nDecliner\n<select_end><close>": ""
+  },
+  "26196": {
+    "<pc> apprend le Coup de Grace\n<%sev_fee_action>!\n<me 71> Les Coups de Grace ne peuvent etre utilises que quand\nla commande Speciale apparait en combat. Les commandes\ndisparaitront apres un certain temps.<bw_break>": ""
+  },
+  "26197": {
+    "<pc> peut desormais changer sa classe par\n<%sev_fee_job>!<me 71><bw_break>": ""
+  },
+  "26198": {
+    "La quete \"<%sev_quest_name>\" a ete complete!<update_quedate><open_irai>": ""
+  },
+  "26199": {
+    "Mais vous n'avez plus de place! Le\n<%sEV_FEE_ITEM> a ete envoye a la Conciergerie.\nRecuperez le dans une auberge en ville!<bw_break>": ""
+  },
+  "26200": {
+    "<pc> recoit\n<%sev_fee_item>!<se_nots System 7><bw_break>": ""
+  },
+  "26203": {
+    "<pc> recoit <%dEV_FEE_ITEM_N> <%sEV_FEE_ITEM>!<se_nots System 7><bw_break>": ""
+  },
+  "27205": {
+    "<pc> apprend l'emote\n\"<%sev_fee_emote>\"!<me 71><bw_break>": ""
+  },
+  "29745": {
+    "<pc> recoit\n<%sev_fee_item>!<se_nots System 7>": ""
+  },
+  "29746": {
+    "<pc> recoit <%dEV_FEE_ITEM_N> <%sEV_FEE_ITEM>!<se_nots System 7>": ""
+  },
+  "30168": {
+    "<%sEV_QUE_NAME0> fait tomber Fossile\nTordu.\n<auto_br=5000>\n<client_pcname> recoit Fossile Tordu\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30170": {
+    "<%sB_TARGET> fait tomber Cle de Nibelheim.\n<auto_br=5000>\n<client_pcname> recoit la Cle de Nibelheim\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30172": {
+    "Glair de Pleine Lune fait tomber un tas\nde papiers.\n<auto_br=5000>\n<client_pcname> recoit la Liste des Anciens\nVillageois (Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30174": {
+    "<%sEV_QUE_NAME0> fait tomber des cles.\n<auto_br=5000>\n<client_pcname> recoit les Cles du Pretre\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30176": {
+    "<%sEV_QUE_NAME0> fait tomber le Fruit Manma.\n<auto_br=5000>\n<client_pcname> recoit le Fruit Manma\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30178": {
+    "<%sEV_QUE_NAME0> fait tomber l'Huile de Relaxation.\n<auto_br=5000>\n<client_pcname> recoit l'Huile de Relaxation\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30180": {
+    "<%sEV_QUE_NAME0> fait tomber l'Extrait Collant.\n<auto_br=5000>\n<client_pcname> recupere l'Extrait Collant\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30182": {
+    "<%sEV_QUE_NAME0> fait tomber la Statue de la Deesse\nDoree.\n<auto_br=5000>\n<client_pcname> recupere la Statue de la Deesse\nDoree (Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30184": {
+    "<%sev_que_name0> a vaincu le\n<%dEV_que_n_num0>eme poisson!\n<%dEV_QUE_R_NUM0> poissons restant!": ""
+  },
+  "30186": {
+    "<%sEV_QUE_NAME0> fait tomber la Pommade Puku.\n<auto_br=5000>\n<client_pcname> recupere la Pommade Puku\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30188": {
+    "Recu: <%dEV_QUE_S_NUM0> Peche Pukupuku!": ""
+  },
+  "30190": {
+    "<%sEV_QUE_NAME0> fait tomber les Peches Pukupuku.\n<%dEV_QUE_T_NUM0> Peches Pukupuku!\n<auto_br=5000>\n<client_pcname> recoit le Tas de Peche Pukupuku\nPile (Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30192": {
+    "<%sEV_QUE_NAME0> fait tomber l'Eau Sacree.\n<auto_br=5000>\n<client_pcname> recoit l'Eau Sacree\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30194": {
+    "<%sEV_QUE_NAME0> fait tomber la Pupulep'eau.\n<auto_br=5000>\n<client_pcname> recoit de la Pupulep'eau (Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
