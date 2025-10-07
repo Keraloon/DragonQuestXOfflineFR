@@ -80,3 +80,30 @@
   "30194": {
     "<%sEV_QUE_NAME0> fait tomber la Pupulep'eau.\n<auto_br=5000>\n<client_pcname> recoit de la Pupulep'eau (Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
   },
+  "30196": {
+    "<%sEV_QUE_NAME1> fait tomber la Poussiere d'Etoile.\n<auto_br=5000>\n<client_pcname> recoit la Poussiere d'Etoile\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30198": {
+    "<%sEV_QUE_NAME0> fait tomber l'Engrenage Magique.\n<auto_br=5000>\n<client_pcname> recoit l'Engrenage Magique\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30200": {
+    "<%sEV_QUE_NAME0> fait tomber l'Engrenage Magique.\n<auto_br=5000>\n<client_pcname> recoit l'Engrenage Magique\n(Objet Important)!\n<auto_br=5000>\nMaintenant, nous avons tout les objets demandes!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30203": {
+    "<%sEV_QUE_NAME1> fait tomber la Lame Antique.\n<auto_br=5000>\n<client_pcname> recoit la Lame Antique\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30205": {
+    "<%sEV_QUE_NAME1> fait tomber la Lame Antique.\n<auto_br=5000>\n<client_pcname> recoit la Lame Antique\n(Objet Important)!\n<auto_br=5000>\nMaintenant, nous avons tout les objets demandes!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30208": {
+    "<%sEV_QUE_NAME0> fait tomber l'Herbe Gomme.\n<auto_br=5000>\n<client_pcname> recoit l'Herbe Gomme\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30210": {
+    "<%sEV_QUE_NAME0> fait tomber la Branche Sacree.\n<auto_br=5000>\n<client_pcname> recoit la Branche Sacree\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+ "30212": {
+    "<%sEV_QUE_NAME0> fait tomber la Pierre de\nFeu de Joie.\n<auto_br=5000>\n<client_pcname> recoit Pierre de Feu de Joie\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
+  "30214": {
+    "<%sEV_QUE_NAME1> fait tomber la Pierre de\nFeu de Joie.\n<auto_br=5000>\n<client_pcname> recoit Pierre de Feu de Joie\n(Objet Important)!<se_nots System 7>\n<auto_bw=5000><close>": ""
+  },
